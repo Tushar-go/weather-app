@@ -1,8 +1,27 @@
-# React + Vite
+## Setting Up Vite React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. **Clone or Download Project:**
+   - Clone the project repository using Git:
+     ```
+     git clone [repository_url]
+     ```
+   - Alternatively, download the project as a ZIP file and extract it to your local machine.
 
-Currently, two official plugins are available:
+2. **Open Folder in Local Machine:**
+   - Navigate to the project folder in your file explorer or terminal:
+     ```
+     cd project-folder
+     ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. **Install Dependencies:**
+   - Open your terminal and run the following command to install project dependencies using npm:
+     ```
+     npm install
+     ```
+
+4. **Run Project Locally:**
+   - After the installation is complete, start the development server by running the following command:
+     ```
+     npm run dev
+     ```
+   - This command will compile the project and start a local development server. You can access the project in your browser at the provided localhost URL.
